@@ -1,3 +1,6 @@
+[![Preprint DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16906917.svg)](https://doi.org/10.5281/zenodo.16906917)
+
+
 # DeepLabV3 with ResNet50 Backbone for Image Segmentation
 
 This repository implements a semantic segmentation pipeline using a pretrained DeepLabV3 model with a ResNet50 backbone, customized for a binary segmentation task on RGB images.
