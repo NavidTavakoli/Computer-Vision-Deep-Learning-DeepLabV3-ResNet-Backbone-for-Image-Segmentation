@@ -348,3 +348,4 @@ print(f"ROC AUC: {roc_auc:.4f}, PR AUC: {pr_auc:.4f}")
 
 This implementation uses the base **DeepLabV3** model with a ResNet-50 backbone from torchvision. While effective, other versions like **DeepLabV3+** or newer segmentation architectures may potentially yield better results. Users are encouraged to experiment with these alternative models to improve performance depending on their specific datasets and tasks.
 
+Author: Navid
